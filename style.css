@@ -6,10 +6,15 @@ p{
    text-align: center;
    background-color: chartreuse;
    text-shadow: 20px;
+   box-shadow: 80px;
+   border-style: solid;
+   border-radius: 110px;
 
 }
 .more{
    background-color: rgba(69, 107, 47, 0.527);
+   border-style: double;
+   border-radius: 30px;
 
 }
 #bodi{
