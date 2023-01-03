@@ -1,0 +1,10 @@
+.more{
+   color:darkgreen;
+   background-color: rgba(255, 0, 200, 0);
+}
+p{
+   text-align: center;
+   background-color: chartreuse;
+   text-shadow: 20px;
+   
+}
