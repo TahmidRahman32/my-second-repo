@@ -6,5 +6,15 @@ p{
    text-align: center;
    background-color: chartreuse;
    text-shadow: 20px;
-   
+
+}
+.more{
+   background-color: rgba(69, 107, 47, 0.527);
+
+}
+#bodi{
+color: brown;
+text-align: center;
+background-color: cornflowerblue;
+text-shadow: 100px;
 }
